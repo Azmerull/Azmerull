@@ -1,12 +1,12 @@
-### Hi there, my name Muhammad Azmerull
+### Hi there, my name is Muhammad Azmerull
 
 - 🔭 I am a fresh graduate from International Islamic University Malaysia (IIUM/UIAM)
-- ⚡ Qualification: Bachelor of Mechatronics Engineering (honours)
+- ⚡ Graduate in Bachelor of Mechatronics Engineering (honours)
 - 🥅 2020 Goals: To get a job
 - 🌱 Interest: Robotics, Reverse Engineering, Machine Learning, Artificial Intelligence
 
 #### I aspire to be a robotics engineer whilst learning other management & report writing skills
-
+<br />
 
 ### Connect with me:
 
