@@ -7,8 +7,6 @@
 
 #### I aspire to be a robotics engineer whilst learning other management & report writing skills
 
-<br />
-<br />
 
 ### Connect with me:
 
