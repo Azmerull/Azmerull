@@ -1,9 +1,10 @@
 ### Hi there, my name is Muhammad Azmerull
 
 - 🔭 I am a fresh graduate from International Islamic University Malaysia (IIUM/UIAM)
-- ⚡ Graduate in Bachelor of Mechatronics Engineering (honours)
-- 🥅 2020 Goals: To get a job
-- 🌱 Interest: Robotics, Reverse Engineering, Machine Learning, Artificial Intelligence
+- ⚡ Graduated in Bachelor of Mechatronics Engineering (honours)
+- 🥅 2021 Goals: Master in current programming related job
+- 🥅 5 Years Goal: Be ready for Master Degree in AI/Deep Learning/Get Married
+- 🌱 Interest: Robotics, Reverse Engineering, Machine Learning, Artificial Intelligence, Software Engineering
 
 #### I aspire to be a robotics engineer whilst learning other management & report writing skills
 <br />
@@ -24,7 +25,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="cPlus" width="26px" src="https://github.com/Azmerull/Azmerull/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="java" width="26px" src="https://github.com/Azmerull/Azmerull/blob/master/icons/java.png" />
 <img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
