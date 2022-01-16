@@ -4,7 +4,7 @@
 - ⚡ Graduated in Bachelor of Mechatronics Engineering (honours)
 - 🥅 2021 Goals: Master in current programming related job
 - 🥅 5 Years Goal: Be ready for Master Degree in AI/Deep Learning/Get Married
-- 🌱 Interest: Robotics, Reverse Engineering, Machine Learning, Artificial Intelligence, Software Engineering
+- 🌱 Interest: Robotics, Reverse Engineering, Machine Learning, Artificial Intelligence, Software Engineering, Machine Vision
 
 #### I aspire to be a robotics engineer whilst learning other management & report writing skills
 <br />
